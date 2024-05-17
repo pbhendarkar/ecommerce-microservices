@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-microservices",
+  "version": "1.0.0",
+  "description": "Welcome to the backend component of `ecommerce-microservice`. This Java/Kotlin backend is designed to handle the server-side logic and data processing for my application.",
+  "main": "Pre-request-Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
